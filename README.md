@@ -1,5 +1,13 @@
-# Big Data Management Project 1
+# Scientific Publications Data Warehouse
 
- ETL Task
+## Project 1: A Data cube on top of Delta lake (ETL)
 
-### Upload notebooks on databricks cluster
+### Purpose
+
+The purpose is to extract data about scientific publications from JSON data that describe, title, topic,
+authors, etc. about a huge number of papers and populate a data warehouse in order to issue analytics
+queries using SQL.
+
+### Usage
+
+Upload notebooks or DBC archive on databricks platform
